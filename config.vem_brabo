@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
   "ReleaseNotes": "@VEM_BRABO\nconfig 2.0 novas para todas as operadoras",
-  "UrlUpdate": "https://raw.githubusercontent.com/stracknet-br/conecta4g/main/config.json",
+  "UrlUpdate": "https://raw.githubusercontent.com/stracknet-br/conecta-VEM_BRABO/main/config.vem_brabo",
   "Sms": "true",
   "EmailFeedback": "true",
   "UrlContato": "https://wa.me/5561981397293",
