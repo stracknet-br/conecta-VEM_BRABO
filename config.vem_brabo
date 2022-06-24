@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.4",
+  "Version": "1.0.5",
   "ReleaseNotes": "@VEM_BRABO\nconfig 2.0 novas para todas as operadoras",
   "UrlUpdate": "https://raw.githubusercontent.com/stracknet-br/conecta-VEM_BRABO/main/config.vem_brabo",
   "Sms": "true",
@@ -72,7 +72,7 @@
       "TlsIP": "172.67.70.43",
       "ProxyIP": "",
       "ProxyPort": "",
-      "Info": "Tlsws➖➖🔥"
+      "Info": "Tlsws"
     },
     {
       "Name": "TIM 🌀 𝟜",
@@ -82,7 +82,7 @@
       "TlsIP": "104.26.5.175",
       "ProxyIP": "",
       "ProxyPort": "",
-      "Info": "➖➖➖➖🔥"
+      "Info": "Tlsws"
     },
     {
       "Name": "VIVO 🌀 𝟙",
@@ -92,7 +92,7 @@
       "TlsIP": "172.64.194.2",
       "ProxyIP": "",
       "ProxyPort": "443",
-      "Info": "➖➖➖➖🔥"
+      "Info": "Tlsws"
     },
     {
       "Name": "VIVO 🌀 𝟚",
@@ -102,7 +102,7 @@
       "TlsIP": "172.64.194.2",
       "ProxyIP": "",
       "ProxyPort": "443",
-      "Info": "➖➖➖➖🔥"
+      "Info": "Tlsws"
     },
     {
       "Name": "VIVO 🌀 𝟛",
@@ -112,7 +112,7 @@
       "TlsIP": "172.64.130.2",
       "ProxyIP": "",
       "ProxyPort": "443",
-      "Info": "➖➖➖➖🔥"
+      "Info": "Tlsws"
     },
     {
       "Name": "VIVO 🌀 𝟜",
@@ -122,7 +122,7 @@
       "TlsIP": "172.64.130.2",
       "ProxyIP": "",
       "ProxyPort": "443",
-      "Info": "➖➖➖➖🔥"
+      "Info": "Tlsws"
     },
     {
       "Name": "VIVO 🌀 𝟝",
@@ -132,7 +132,7 @@
       "TlsIP": "172.64.130.2",
       "ProxyIP": "",
       "ProxyPort": "443",
-      "Info": "➖➖➖➖🔥"
+      "Info": "Tlsws"
    },
     {
       "Name": "VIVO 🌀 𝟞",
@@ -142,7 +142,7 @@
       "TlsIP": "104.24.11.16",
       "ProxyIP": "",
       "ProxyPort": "443",
-      "Info": "➖➖➖➖🔥"
+      "Info": "Tlsws"
    },
     {
       "Name": "VIVO 🌀 𝟟",
@@ -152,7 +152,7 @@
       "TlsIP": "172.64.131.2",
       "ProxyIP": "",
       "ProxyPort": "443",
-      "Info": "➖➖➖➖🔥"
+      "Info": "Tlsws"
    },
     {
       "Name": "CLARO 🌀 𝟙",
@@ -172,7 +172,7 @@
       "TlsIP": "ct.livestream.com",
       "ProxyIP": "",
       "ProxyPort": "443",
-      "Info": "Tlsws➖➖🔥"
+      "Info": "Tlsws"
    },
     {
       "Name": "CLARO 🌀 𝟛",
@@ -182,7 +182,7 @@
       "TlsIP": "br.corp.kaltura.com",
       "ProxyIP": "",
       "ProxyPort": "443",
-      "Info": "➖➖➖➖🔥"
+      "Info": "Tlsws"
    },
     {
       "Name": "CLARO 🌀 𝟜",
@@ -192,7 +192,7 @@
       "TlsIP": "communitystaging.kaltura.com",
       "ProxyIP": "",
       "ProxyPort": "443",
-      "Info": "➖➖➖➖🔥"
+      "Info": "Tlsws"
    },
     {
       "Name": "CLARO 🌀 𝟝",
@@ -202,7 +202,7 @@
       "TlsIP": "stage-corp.kaltura.com",
       "ProxyIP": "",
       "ProxyPort": "443",
-      "Info": "➖➖➖➖🔥"
+      "Info": "Tlsws"
    },
     {
       "Name": "CLARO 🌀 𝟞",
@@ -212,7 +212,7 @@
       "TlsIP": "vimeo.livestream.com",
       "ProxyIP": "",
       "ProxyPort": "443",
-      "Info": "➖➖➖➖🔥"
+      "Info": "Tlsws"
    },
     {
       "Name": "CLARO 🌀 𝟟",
@@ -222,7 +222,7 @@
       "TlsIP": "learning.kaltura.com",
       "ProxyIP": "",
       "ProxyPort": "443",
-      "Info": "➖➖➖➖🔥"
+      "Info": "Tlsws"
    },
     {
       "Name": "CLARO 🌀 𝟠",
@@ -232,7 +232,7 @@
       "TlsIP": "icanhazip.com",
       "ProxyIP": "",
       "ProxyPort": "443",
-      "Info": "➖➖➖➖🔥"
+      "Info": "Tlsws"
    },
     {
       "Name": "OI 🌀 𝟙",
@@ -242,7 +242,7 @@
       "TlsIP": "www.hbogo.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
-      "Info": "➖➖➖➖🔥"
+      "Info": "Tlsws"
     },
     {
       "Name": "OI 🌀 𝟚",
@@ -252,7 +252,7 @@
       "TlsIP": "104.16.53.91",
       "ProxyIP": "",
       "ProxyPort": "",
-      "Info": "➖➖➖➖🔥"
+      "Info": "Tlsws"
     },
     {
       "Name": "OI 🌀 𝟛",
@@ -262,7 +262,7 @@
       "TlsIP": "104.16.51.91",
       "ProxyIP": "",
       "ProxyPort": "",
-      "Info": "➖➖➖➖🔥"
+      "Info": "Tlsws"
     },
     {
       "Name": "OI 🌀 𝟜",
@@ -272,7 +272,7 @@
       "TlsIP": "104.16.56.6",
       "ProxyIP": "104.16.56.6",
       "ProxyPort": "",
-      "Info": "➖➖➖➖🔥"
+      "Info": "Tlsws"
     },
     {
       "Name": "OI 🌀 𝟝",
@@ -282,7 +282,7 @@
       "TlsIP": "104.16.55.91",
       "ProxyIP": "",
       "ProxyPort": "",
-      "Info": "➖➖➖➖🔥" 
+      "Info": "Tlsws" 
     }
   ]
 }
