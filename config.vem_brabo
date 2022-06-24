@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "ReleaseNotes": "@VEM_BRABO\nconfig 2.0 novas para todas as operadoras",
   "UrlUpdate": "https://raw.githubusercontent.com/stracknet-br/conecta-VEM_BRABO/main/config.vem_brabo",
   "Sms": "true",
@@ -162,7 +162,7 @@
       "TlsIP": "go.kaltura.com",
       "ProxyIP": "",
       "ProxyPort": "443",
-      "Info": "➖➖➖➖🔥"
+      "Info": "Tlsws"
    },
     {
       "Name": "CLARO 🌀 𝟚",
