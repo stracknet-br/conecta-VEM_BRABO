@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.3",
+  "Version": "1.0.4",
   "ReleaseNotes": "@VEM_BRABO\nconfig 2.0 novas para todas as operadoras",
   "UrlUpdate": "https://raw.githubusercontent.com/stracknet-br/conecta-VEM_BRABO/main/config.vem_brabo",
   "Sms": "true",
@@ -52,7 +52,7 @@
       "TlsIP": "104.26.4.175",
       "ProxyIP": "",
       "ProxyPort": "",
-      "Info": "➖➖➖➖🔥"
+      "Info": "Tlsws"
     },
     {
       "Name": "TIM 🌀 𝟚",
@@ -62,7 +62,7 @@
       "TlsIP": "104.26.4.175",
       "ProxyIP": "",
       "ProxyPort": "",
-      "Info": "➖➖➖➖🔥"
+      "Info": "Tlsws"
     },
     {
       "Name": "TIM 🌀 𝟛",
@@ -72,7 +72,7 @@
       "TlsIP": "172.67.70.43",
       "ProxyIP": "",
       "ProxyPort": "",
-      "Info": "➖➖➖➖🔥"
+      "Info": "Tlsws➖➖🔥"
     },
     {
       "Name": "TIM 🌀 𝟜",
@@ -172,7 +172,7 @@
       "TlsIP": "ct.livestream.com",
       "ProxyIP": "",
       "ProxyPort": "443",
-      "Info": "➖➖➖➖🔥"
+      "Info": "Tlsws➖➖🔥"
    },
     {
       "Name": "CLARO 🌀 𝟛",
