@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.10",
+  "Version": "1.0.11",
   "ReleaseNotes": "@STRACK_VPN\nconfig 2.0 novas para todas as operadoras",
   "UrlUpdate": "https://raw.githubusercontent.com/stracknet-br/conecta-VEM_BRABO/main/config.vem_brabo",
   "Sms": "true",
@@ -82,6 +82,16 @@
       "TlsIP": "104.26.5.175",
       "ProxyIP": "",
       "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "VIVO 🌀 𝟘",
+      "FLAG": "vivo",
+      "Payload": "GET wss://support.pokemon.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "support.pokemon.com",
+      "TlsIP": "172.64.130.2",
+      "ProxyIP": "",
+      "ProxyPort": "443",
       "Info": "Tlsws"
     },
     {
