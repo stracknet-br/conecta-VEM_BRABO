@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.11",
+  "Version": "1.0.12",
   "ReleaseNotes": "@STRACK_VPN\nconfig 2.0 novas para todas as operadoras",
   "UrlUpdate": "https://raw.githubusercontent.com/stracknet-br/conecta-VEM_BRABO/main/config.vem_brabo",
   "Sms": "true",
@@ -14,7 +14,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "turbonetbr.xyz",
-      "CheckUser": "http://150.230.94.20:8181/checkUser",
+      "CheckUser": "http://152.67.46.119:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
