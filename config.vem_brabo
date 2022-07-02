@@ -13,7 +13,7 @@
       "Name": "SERVIDOR BR1",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "turbonetbr.xyz",
+      "ServerIP": "d1f3atukko88m7.cloudfront.net",
       "CheckUser": "http://152.67.46.119:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -21,7 +21,7 @@
       "PASS": ""
     },
     {
-      "Name": "SERVIDOR 2 SO VIVO",
+      "Name": "SERVIDOR BR2",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "d1f3atukko88m7.cloudfront.net",
