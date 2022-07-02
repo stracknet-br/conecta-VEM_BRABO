@@ -1,8 +1,5 @@
 {
-  "Version": "1.0.6",
-  "ReleaseNotes": "@STRACK_VPN\nconfig 2.0 novas para todas as operadoras",
-  "UrlUpdate": "{
-  "Version": "1.0.2",
+  "Version": "1.0.7",
   "ReleaseNotes": "@STRACK_VPN\nconfig 2.0 novas para todas as operadoras",
   "UrlUpdate": "https://raw.githubusercontent.com/stracknet-br/conecta-VEM_BRABO/main/config.vem_brabo",
   "Sms": "true",
