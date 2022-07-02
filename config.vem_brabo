@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.15",
+  "Version": "1.0.16",
   "ReleaseNotes": "@STRACK_VPN\nconfig 2.0 novas para todas as operadoras",
   "UrlUpdate": "https://raw.githubusercontent.com/stracknet-br/conecta-VEM_BRABO/main/config.vem_brabo",
   "Sms": "true",
@@ -92,7 +92,7 @@
       "TlsIP": "",
       "ProxyIP": "live.vivo.com.br",
       "ProxyPort": "80",
-      "Info": "Proxy"
+      "Info": "Tlsws"
     },
     {
       "Name": "🟣VIVO 2 CONNECT",
@@ -102,7 +102,7 @@
       "TlsIP": "",
       "ProxyIP": "recarga.vivo.com.br",
       "ProxyPort": "80",
-      "Info": "Proxy"
+      "Info": "Tlsws"
     },
     {
       "Name": "🟣VIVO 3 CONNECT",
