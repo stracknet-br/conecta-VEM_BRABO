@@ -1,13 +1,13 @@
 {
-  "Version": "1.0.28",
-  "ReleaseNotes":  "@STRACK_VPN\nconfig 2.0 novas para todas as operadoras",
+  "Version": "1.0.2",
+  "ReleaseNotes": "@STRACK_VPN, CONEXÃO TIM SSL IP+BUGHOST ADICIONADA,CLARO RAPIDA FUNCIONAL",
   "UrlUpdate": "https://raw.githubusercontent.com/stracknet-br/conecta-VEM_BRABO/main/config.vem_brabo",
   "Sms": "true",
   "EmailFeedback": "true",
-  "UrlContato": "https://wa.me/5561981397293",
+  "UrlContato": "https://t.me/Strack_Net",
   "UrlTermos": "https://raw.githubusercontent.com/VENHABRABO/CONNECTA4G/main/TERMOS%20DE%20USO.html",
   "CheckUser": "true",
-  "UdpPort": "7100;7200;7300;7400;7500;7600;7700",
+  "UdpPort": "7300;7400;7500;7600;7700",
   "Servers": [
     {
       "Name": "SERVIDOR BR1",
