@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.26",
+  "Version": "1.0.2",
   "ReleaseNotes": "@STRACK_VPN\nconfig 2.0 novas para todas as operadoras",
-  "UrlUpdate": "https://raw.githubusercontent.com/stracknet-br/conecta-VEM_BRABO/main/config.vem_brabo",
+  "UrlUpdate": "https://paste.anasor.com/paste.php?raw&id=16066",
   "Sms": "true",
   "EmailFeedback": "true",
   "UrlContato": "https://wa.me/5561981397293",
@@ -21,7 +21,7 @@
       "PASS": ""
     },
     {
-      "Name": "SERVIDOR BR2",
+      "Name": "SERVIDOR 2 SO VIVO",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "d1f3atukko88m7.cloudfront.net",
@@ -85,7 +85,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "VIVO 🌀 𝟙",
+  "Name": "🟣VIVO 1 CLOUDFRONT",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -93,9 +93,8 @@
       "ProxyIP": "live.vivo.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
-      },
-    {
-      "Name": "VIVO 🌀 𝟚",
+      },{
+  "Name": "🟣VIVO 2 CLOUDFRONT",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -103,9 +102,8 @@
       "ProxyIP": "recarga.vivo.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
-    },
-    {
-      "Name": "VIVO 🌀 𝟛",
+      },{
+  "Name": "🟣VIVO 3 CLOUDFRONT",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -113,9 +111,8 @@
       "ProxyIP": "planosvivointernet.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
-    },
-    {
-      "Name": "VIVO 🌀 𝟜",
+      },{
+  "Name": "🟣VIVO 4 CLOUDFRONT",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -123,11 +120,10 @@
       "ProxyIP": "www.assinenet.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
-    },
-    {
-      "Name": "VIVO 🌀 𝟝",
+      },{
+  "Name": "🟣VIVO 5 CLOUDFRONT",
       "FLAG": "vivo",
-      "Payload": ""GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "accounts.descomplica.com.br",
@@ -143,7 +139,7 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
-   },
+    },
     {
       "Name": "CLARO 🌀 𝟚",
       "FLAG": "claro",
@@ -153,7 +149,7 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
-   },
+    },
     {
       "Name": "CLARO 🌀 𝟛",
       "FLAG": "claro",
@@ -163,7 +159,7 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
-   },
+    },
     {
       "Name": "CLARO 🌀 𝟜",
       "FLAG": "claro",
@@ -173,7 +169,7 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
-   },
+    },
     {
       "Name": "CLARO 🌀 𝟝",
       "FLAG": "claro",
@@ -183,7 +179,7 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
-   },
+    },
     {
       "Name": "CLARO 🌀 𝟞",
       "FLAG": "claro",
@@ -193,7 +189,7 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
-   },
+    },
     {
       "Name": "CLARO 🌀 𝟟",
       "FLAG": "claro",
@@ -203,7 +199,7 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
-   },
+    },
     {
       "Name": "CLARO 🌀 𝟠",
       "FLAG": "claro",
