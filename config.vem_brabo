@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.3",
+  "Version": "1.0.4",
   "ReleaseNotes": "@STRACK_VPN\nconfig 2.0 novas para todas as operadoras",
-  "UrlUpdate": "https://paste.anasor.com/paste.php?raw&id=16066",
+  "UrlUpdate": "https://raw.githubusercontent.com/stracknet-br/conecta-VEM_BRABO/main/config.vem_brabo",
   "Sms": "true",
   "EmailFeedback": "true",
   "UrlContato": "https://wa.me/5561981397293",
