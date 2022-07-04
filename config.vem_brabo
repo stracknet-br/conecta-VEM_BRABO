@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.54",
+  "Version": "1.0.55",
   "ReleaseNotes": "@STRACK_VPN\nconfig 2.0 novas para todas as operadoras",
   "UrlUpdate": "https://raw.githubusercontent.com/stracknet-br/conecta-VEM_BRABO/main/config.vem_brabo",
   "Sms": "true",
@@ -123,6 +123,8 @@
   "ProxyIP": "",
   "ProxyPort": "",
   "Info": "Tlsws"
-  },
+  }
+ ]
+}
     
       
