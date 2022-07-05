@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.60",
+  "Version": "1.0.61",
   "ReleaseNotes": "@STRACK_VPN\nconfig 2.0 novas para todas as operadoras",
   "UrlUpdate": "https://raw.githubusercontent.com/stracknet-br/conecta-VEM_BRABO/main/config.vem_brabo",
   "Sms": "true",
@@ -45,7 +45,17 @@
   ],
 "Networks": [
        {
-   "Name": "VIVO 🌀 𝟙",
+      "Name": "VIVO-ONLINE-02 RJ🚀",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.56.6",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+  },
+  {
+      "Name": "VIVO 🌀 𝟙",
       "FLAG": "vivo",
       "Payload": "GET wss://carrinho-pos-familia.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
