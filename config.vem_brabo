@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.62",
+  "Version": "1.0.63",
   "ReleaseNotes": "@STRACK_VPN\nconfig 2.0 novas para todas as operadoras",
   "UrlUpdate": "https://raw.githubusercontent.com/stracknet-br/conecta-VEM_BRABO/main/config.vem_brabo",
   "Sms": "true",
@@ -153,7 +153,17 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
-    {
+   {
+      "Name": "🔴CLARO",
+      "FLAG": "claro",
+      "Payload": "GET wss://ct.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "ct.livestream.com",
+      "TlsIP": "104.17.72.206",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+   {
       "Name": "CLARO 🌀 𝟙",
       "FLAG": "claro",
       "Payload": "GET wss://go.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
