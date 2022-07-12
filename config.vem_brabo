@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.68",
+  "Version": "1.0.69",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO!!!\nmelhorias para todas as operadoras ",
   "UrlUpdate": "https://raw.githubusercontent.com/stracknet-br/conecta-VEM_BRABO/main/config.vem_brabo",
   "Sms": "true",
@@ -154,57 +154,7 @@
       "Info": "Tlsws"
    },
    {
-      "Name": "🔴CLARO FLEX 1",
-      "FLAG": "claro",
-      "Payload": "",
-      "SNI": "m.twitter.com",
-      "TlsIP": "",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Ssl"
-   },
-   {
-      "Name": "🔴CLARO FLEX 2",
-      "FLAG": "claro",
-      "Payload": "",
-      "SNI": "m.waze.com",
-      "TlsIP": "",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Ssl"
-   },
-    {
-      "Name": "🔴CLARO 3",
-      "FLAG": "claro",
-      "Payload": "GET wss://go.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "go.kaltura.com",
-      "TlsIP": "104.17.74.206",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-   },
-    {
-      "Name": "🔴CLARO 4",
-      "FLAG": "claro",
-      "Payload": "GET wss://ct.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "ct.livestream.com",
-      "TlsIP": "104.17.72.206",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-   },
-    {
-      "Name": "🔴CLARO 5",
-      "FLAG": "claro",
-      "Payload": "GET wss://br.corp.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "br.corp.kaltura.com",
-      "TlsIP": "172.67.177.243",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-   },
-    {
-      "Name": "🔴CLARO 6",
+      "Name": "CLARO  🌀 𝟙",
       "FLAG": "claro",
       "Payload": "GET wss://communitystaging.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "communitystaging.kaltura.com",
@@ -213,58 +163,8 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
-    {
-      "Name": "🔴CLARO 7",
-      "FLAG": "claro",
-      "Payload": "GET wss://lp.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "stage-corp.kaltura.com",
-      "TlsIP": "104.21.67.158",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-   },
-    {
-      "Name": "🔴CLARO 8",
-      "FLAG": "claro",
-      "Payload": "GET wss://vimeo.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "vimeo.livestream.com",
-      "TlsIP": "104.17.71.206",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-   },
-    {
-      "Name": "🔴CLARO 9",
-      "FLAG": "claro",
-      "Payload": "GET wss://learning.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "learning.kaltura.com",
-      "TlsIP": "162.159.135.91",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-   },
-    {
-      "Name": "🔴CLARO 10",
-      "FLAG": "claro",
-      "Payload": "GET wss://icanhazip.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "icanhazip.com",
-      "TlsIP": "104.18.115.97",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-   },
    {
-      "Name": "🔴CLARO TESTE",
-      "FLAG": "claro",
-      "Payload": "GET wss://mobilidade.cloud.caixa.gov.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "mobilidade.cloud.caixa.gov.br",
-      "TlsIP": "104.16.57.6",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-   },
-   {
-      "Name": "CLARO 🌀 𝟙",
+      "Name": "CLARO  🌀 𝟚",
       "FLAG": "claro",
       "Payload": "GET wss://go.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "go.kaltura.com",
@@ -274,7 +174,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "CLARO 🌀 𝟚",
+      "Name": "CLARO 🌀 𝟛",
       "FLAG": "claro",
       "Payload": "GET wss://ct.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "ct.livestream.com",
@@ -284,7 +184,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "CLARO 🌀 𝟛",
+      "Name": "CLARO 🌀 𝟜",
       "FLAG": "claro",
       "Payload": "GET wss://br.corp.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "br.corp.kaltura.com",
@@ -294,7 +194,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "CLARO 🌀 𝟜",
+      "Name": "CLARO 🌀 𝟝",
       "FLAG": "claro",
       "Payload": "GET wss://communitystaging.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "communitystaging.kaltura.com",
@@ -304,7 +204,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "CLARO 🌀 𝟝",
+      "Name": "CLARO 🌀 𝟞",
       "FLAG": "claro",
       "Payload": "GET wss://lp.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "stage-corp.kaltura.com",
@@ -314,7 +214,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "CLARO 🌀 𝟞",
+      "Name": "CLARO 🌀 𝟟",
       "FLAG": "claro",
       "Payload": "GET wss://vimeo.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "vimeo.livestream.com",
@@ -324,7 +224,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "CLARO 🌀 𝟟",
+      "Name": "CLARO 🌀 𝟠",
       "FLAG": "claro",
       "Payload": "GET wss://learning.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "learning.kaltura.com",
@@ -334,7 +234,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "CLARO 🌀 𝟠",
+      "Name": "CLARO 🌀 𝟡",
       "FLAG": "claro",
       "Payload": "GET wss://icanhazip.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "icanhazip.com",
