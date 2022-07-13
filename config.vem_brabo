@@ -74,16 +74,6 @@
       "ProxyPort": "80",
       "Info": "Proxy"
    },
-   {
-      "Name": "VIVO 🌀 ",
-      "FLAG": "vivo",
-      "Payload": "GET wss://gracegardencounseling.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "gracegardencounseling.com",
-      "TlsIP": "gracegardencounseling.com",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-  },
   {
       "Name": "VIVO 🌀 𝟙",
       "FLAG": "vivo",
@@ -179,6 +169,16 @@
       "Payload": "GET wss://movimenta.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "movimenta.vivo.com.br",
       "TlsIP": "104.21.11.51",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+   {
+      "Name": "VIVO 🌀 ",
+      "FLAG": "vivo",
+      "Payload": "GET wss://gracegardencounseling.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "gracegardencounseling.com",
+      "TlsIP": "gracegardencounseling.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
