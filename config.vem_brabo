@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.72",
+  "Version": "1.0.73",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO!!!\nmelhorias para todas as operadoras ",
   "UrlUpdate": "https://raw.githubusercontent.com/stracknet-br/conecta-VEM_BRABO/main/config.vem_brabo",
   "Sms": "true",
@@ -298,7 +298,7 @@
       "FLAG": "tim",
       "Payload": "GET wss://static.r4you.co  HTTP/1.1[crlf]Host:[app_host] [crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "static.r4you.co",
-      "TlsIP": "104.26.4.175",
+      "TlsIP": "104.26.5.175",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -316,9 +316,9 @@
     {
       "Name": "TIM 🌀 𝟜",
       "FLAG": "tim",
-      "Payload": "GET wss://static.r4you.co HTTP/1.1[crlf]Host:[app_host] [crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "static.r4you.co",
-      "TlsIP": "104.26.5.175",
+      "Payload": "GET wss://api-tim.oston.io/ HTTP/1.1[crlf]Host:[app_host] [crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "api-tim.oston.io",
+      "TlsIP": "172.67.201.130",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
