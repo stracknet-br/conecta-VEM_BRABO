@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.74",
+  "Version": "1.0.75",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO!!!\nmelhorias para todas as operadoras ",
   "UrlUpdate": "https://raw.githubusercontent.com/stracknet-br/conecta-VEM_BRABO/main/config.vem_brabo",
   "Sms": "true",
@@ -206,9 +206,9 @@
    {
       "Name": "CLARO  🌀 𝟚",
       "FLAG": "claro",
-      "Payload": "GET wss://go.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "go.kaltura.com",
-      "TlsIP": "go.kaltura.com",
+      "Payload": "GET wss://4.icanhazip.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "4.icanhazip.com",
+      "TlsIP": "4.icanhazip.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
