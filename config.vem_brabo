@@ -1,13 +1,13 @@
 {
-  "Version": "1.0.75",
+  "Version": "1.0.76",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO!!!\nmelhorias para todas as operadoras ",
   "UrlUpdate": "https://raw.githubusercontent.com/stracknet-br/conecta-VEM_BRABO/main/config.vem_brabo",
   "Sms": "true",
   "EmailFeedback": "true",
-  "UrlContato": "https://wa.me/5561981397293",
+  "UrlContato": "true",
   "UrlTermos": "https://raw.githubusercontent.com/VENHABRABO/CONNECTA4G/main/TERMOS%20DE%20USO.html",
   "CheckUser": "true",
-  "UdpPort": "7100;7200;7300;7400;7500;7600;7700",
+  "UdpPort": "7100;7200;7300;7400;7500;7600;7700;7800;7900",
   "Servers": [
     {
       "Name": "SERVIDOR BR1",
@@ -67,9 +67,9 @@
    {
       "Name": "VIVO 🌀 𝟛",
       "FLAG": "vivo",
-      "Payload": "GET wss://www.alura.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "www.alura.com.br",
-      "TlsIP": "104.21.11.51",
+      "Payload": "GET wss://fitality.gr HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "fitality.gr",
+      "TlsIP": "fitality.gr",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
